@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRepository", "MongoRepository\MongoRepository.csproj", "{7022F73E-E6B9-4873-833B-8035CC345936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRepository.Domain", "MongoRepository.Domain\MongoRepository.Domain.csproj", "{6B05EB8D-FD1A-4C77-9BA8-E72CCCA38514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRepository.Persistence", "MongoRepository.Persistence\MongoRepository.Persistence.csproj", "{B0BD8608-AB66-438C-839B-215A073FB494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7022F73E-E6B9-4873-833B-8035CC345936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7022F73E-E6B9-4873-833B-8035CC345936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7022F73E-E6B9-4873-833B-8035CC345936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7022F73E-E6B9-4873-833B-8035CC345936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B05EB8D-FD1A-4C77-9BA8-E72CCCA38514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B05EB8D-FD1A-4C77-9BA8-E72CCCA38514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B05EB8D-FD1A-4C77-9BA8-E72CCCA38514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B05EB8D-FD1A-4C77-9BA8-E72CCCA38514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BD8608-AB66-438C-839B-215A073FB494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BD8608-AB66-438C-839B-215A073FB494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BD8608-AB66-438C-839B-215A073FB494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BD8608-AB66-438C-839B-215A073FB494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
